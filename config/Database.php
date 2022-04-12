@@ -1,7 +1,7 @@
 <?php
 class Database{
     // Connexion à la base de données
-    private $host = "localhost";
+    private $host = "localhost:8081";
     private $db_name = "api_rest";
     private $username = "root";
     private $password = "";
